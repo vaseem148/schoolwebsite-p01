@@ -1,6 +1,6 @@
 export default function VisionMission() {
   return (
-    <section className="bg-[#FBF9F7] py-24 px-6">
+    <section className="bg-bg-alt py-24 px-6">
       <div className="max-w-7xl mx-auto">
 
         {/* TOP LABEL */}
@@ -34,7 +34,7 @@ export default function VisionMission() {
               ring-1 ring-green-300/40
             "></div>
 
-            {/* ICON */}a
+            {/* ICON */}
             <div
               className="
                 w-14 h-14 rounded-2xl bg-green-600 text-white mb-6
