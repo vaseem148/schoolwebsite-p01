@@ -6,7 +6,7 @@ export default function About() {
         {/* ABOUT BADGE */}
         <div className="flex justify-center mb-6">
           <span className="px-5 py-2 rounded-full bg-yellow-100 text-yellow-700 text-lm font-medium">
-            About Us
+            About Uss
           </span>
         </div>
 
